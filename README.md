@@ -1,4 +1,9 @@
 # r10pro
+
+## More info
+
+More info and sorces how to unlock bootloader on Realme 10 Pro in 2025 at [FRP Unlocking](https://frpunlocking.com)
+
 Realme 10 Pro RMX3660, RMX3663, and RMX3661 are new 2025 methods of unlocking the bootloader with official firmware by changing regions of a target device.
 
 [How to switch the region with locked bootloader of Realme Mobile](https://frpunlocking.com/change-the-region-of-a-realme-device-with-locked-bootloader/)
@@ -8,10 +13,6 @@ Realme 10 Pro RMX3660, RMX3663, and RMX3661 are new 2025 methods of unlocking th
 [Password for unpacking files in the position labeled with 10 Pro RMX366*](https://frpunlocking.com/diy-unlock/realme-bootloader-unlock/)
 
 The preferred region to unlock the bootloader is INDIA RMX3660, which is firmware labeled with an "in" tag at the end of the filename.  Multiparts are compressed with Win-Rar but can be unpacked into a single zip file (without underscore at the end of filename "_") on Android with any Archive Manager with password-protected zip archives support and 7-zip on Windows.
-
-## More info
-
-More info and sorces how to unlock bootloader on Realme 10 Pro in 2025 at [FRP Unlocking](https://frpunlocking.com)
 
 ## [YouTube Channel](https://www.youtube.com/@FRPUnlocking_com)
 
