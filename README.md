@@ -2,7 +2,7 @@
 
 ## More info
 
-More info and sorces how to unlock bootloader on Realme 10 Pro in 2025 at [FRP Unlocking](https://frpunlocking.com)
+More info and suorces how to unlock bootloader on Realme 10 Pro in 2025 at [FRP Unlocking](https://frpunlocking.com)
 
 Realme 10 Pro RMX3660, RMX3663, and RMX3661 are new 2025 methods of unlocking the bootloader with official firmware by changing regions of a target device.
 
